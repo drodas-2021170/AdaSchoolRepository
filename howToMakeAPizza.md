@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pasos para hacer una pizza - Pablo Realiquez
 
 ## Ingredientes:
@@ -13,19 +14,18 @@
 
 ## Preparación:
 
-1. **Preparar la masa**  
-   - En un bol grande, mezcla la harina, la sal y el azúcar.  
-   - Disuelve la levadura en el agua tibia y agrégala a la mezcla de harina.  
-   - Añade el aceite de oliva y mezcla hasta obtener una masa homogénea.  
+1. **Reunir los ingredientes**
+   - Harina, agua, sal, levadura
+   - Salsa de tomate
+   - Queso (por ejemplo, mozzarella) y otros ingredientes al gusto (jamón, pepperoni, vegetales, etc.)
 
-2. **Amasar y reposar**  
-   - Amasa durante 10-15 minutos hasta que la masa esté elástica.  
-   - Forma una bola, cúbrela con un paño y deja reposar en un lugar cálido durante 1 hora o hasta que doble su tamaño.  
+2. **Preparar la masa**
+   - Mezclar la harina, el agua, la sal y la levadura hasta formar una masa homogénea.
+   - Amasar bien hasta obtener una textura elástica y suave.
 
-3. **Preparar la base**  
-   - Precalienta el horno a 220°C (428°F).  
-   - Estira la masa sobre una superficie enharinada hasta obtener el grosor deseado.  
-   - Colócala sobre una bandeja para hornear o piedra para pizza.  
+3. **Dejar reposar la masa**
+   - Colocar la masa en un recipiente engrasado y cubrirla con un paño.
+   - Dejar que fermente en un lugar cálido durante 1-2 horas o hasta que doble su tamaño.
 
 4. **Agregar los ingredientes**  
    - Unta la salsa de tomate sobre la base.  
@@ -38,3 +38,5 @@
 6. **Servir y disfrutar**  
    - Retira la pizza del horno y deja reposar unos minutos.  
    - Corta en porciones y ¡disfruta tu pizza casera!
+=======
+>>>>>>> d55db10d833ad828b7b569e531cd5514cf8c8b86
