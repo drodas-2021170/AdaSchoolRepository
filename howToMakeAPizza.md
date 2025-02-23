@@ -1,19 +1,27 @@
-1. Mezcla harina, agua, sal, aceite de oliva y levadura. Amasa bien hasta obtener una masa suave. Déjala reposar durante 1 hora.
+1. **Reunir los ingredientes**
+   - Harina, agua, sal, levadura
+   - Salsa de tomate
+   - Queso (por ejemplo, mozzarella) y otros ingredientes al gusto (jamón, pepperoni, vegetales, etc.)
 
-2. Cocina tomates triturados con ajo, cebolla, aceite de oliva, sal, azúcar y albahaca. Cocina por unos 20 minutos a fuego lento.
+2. **Preparar la masa**
+   - Mezclar la harina, el agua, la sal y la levadura hasta formar una masa homogénea.
+   - Amasar bien hasta obtener una textura elástica y suave.
 
-3. Ralla el queso (mozzarella es ideal) y corta los ingredientes como jamón, champiñones, pimientos, etc.
+3. **Dejar reposar la masa**
+   - Colocar la masa en un recipiente engrasado y cubrirla con un paño.
+   - Dejar que fermente en un lugar cálido durante 1-2 horas o hasta que doble su tamaño.
 
-4. Precalienta el horno a 250°C para que esté bien caliente cuando pongas la pizza.
+4. **Formar la base de la pizza**
+   - Extender la masa sobre una superficie enharinada, ya sea con las manos o con un rodillo.
+   - Darle forma circular o rectangular, según tu preferencia.
 
-5. Toma la masa reposada y extiéndela con las manos o un rodillo hasta que quede del tamaño deseado.
+5. **Agregar la salsa y los ingredientes**
+   - Untar una capa generosa de salsa de tomate sobre la base.
+   - Espolvorear el queso uniformemente y añadir los ingredientes que prefieras.
 
-6.  Unta una capa uniforme de salsa de tomate sobre la base de la masa.
+6. **Hornear la pizza**
+   - Precalentar el horno a 250°C (482°F).
+   - Hornear la pizza durante 10-15 minutos, o hasta que la masa esté dorada y el queso se derrita.
 
-7. Coloca el queso y los ingredientes al gusto (como jamón, champiñones, pepperoni, etc.).
-
-8. Mete la pizza en el horno durante unos 10-15 minutos, o hasta que la masa esté dorada y el queso burbujeante.
-
-9. Saca la pizza del horno, deja reposar unos minutos y córtala en porciones.
-
-10. ¡Listo! Ahora solo queda disfrutar tu pizza casera con tus ingredientes favoritos.
+7. **Servir y disfrutar**
+   - Retirar la pizza del horno, cortarla en porciones y servirla caliente.
